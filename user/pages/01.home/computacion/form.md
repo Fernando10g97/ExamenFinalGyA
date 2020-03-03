@@ -1,6 +1,6 @@
 ---
-title: Computacion
+title: HTML
 visible: true
 ---
 
-**La computación es un conjunto de conocimientos racionales y sistematizados que se centran en el estudio de la abstracción de los procesos, con el fin de reproducirlos con ayuda de sistemas formales; es decir, a través de símbolos y reglas lógicas.**
+**“HTML es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet. Se trata de la siglas que corresponden a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto”.**
