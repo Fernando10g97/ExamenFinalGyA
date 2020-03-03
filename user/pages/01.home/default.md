@@ -3,7 +3,8 @@ title: Publicaciones
 body_classes: 'title-center title-h1h2'
 ---
 
-_**GRAFICACIÓN Y ANIMACIÓN**_
+#### GRAFICACIÓN Y ANIMACIÓN
+
 
 Bienvenido a mi Sitio Web con CMS Grav.
 
